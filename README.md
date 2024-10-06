@@ -63,7 +63,7 @@ npm install
 ### Compilación y ejecución
 
 ```sh
-npm run serve
+npm run dev
 ```
 
 ### Personalizar configuración
