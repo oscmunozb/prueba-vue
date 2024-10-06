@@ -12,6 +12,7 @@
     "test:unit": "jest"
   },
   "dependencies": {
+    "firebase": "^10.14.0",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3",
     "vuex": "^4.0.2"
